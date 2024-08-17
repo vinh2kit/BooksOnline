@@ -2,7 +2,7 @@
 <h3 tabindex="-1" class="heading-element" dir="auto">1. You will find in this repo the following:</h3>
 <ul dir="auto">
 <li>Boostrap 4, Jquery</li>
-<li>Spring boot, Thymeleaf, MySQL, JPA, Spring mail, Spring OAuth</li>
+<li>Spring boot, Thymeleaf, MySQL, JPA, Spring OAuth</li>
 </ul>
 <h3 tabindex="-1" class="heading-element" dir="auto">2. Functions performed in the project</h3>
 <ul dir="auto">
@@ -10,22 +10,20 @@
 <ul dir="auto">
 <li>User management
 <ul dir="auto">
-<li>CRUD; export files to pdf, excel, csv; assign permissions; pagination</li>
+<li>CRUD; assign permissions; pagination</li>
 </ul>
 </li>
 <li>Category management
 <ul dir="auto">
-<li>CRUD; pagination; category hierarchy</li>
+<li>CRUD; status on/off</li>
 </ul>
 </li>
-<li>Brand management
-<ul dir="auto">
-<li>CRUD; pagination</li>
-</ul>
+
+
 </li>
 <li>Product management
 <ul dir="auto">
-<li>CRUD; pagination; filter by category; save multiple photos</li>
+<li>CRUD; pagination; filter by category; save photos</li>
 </ul>
 </li>
 <li>Customer management
@@ -33,19 +31,15 @@
 <li>CRUD; pagination</li>
 </ul>
 </li>
-<li>Shipping management
-<ul dir="auto">
-<li>CRUD; pagination</li>
-</ul>
 </li>
 <li>Order management
 <ul dir="auto">
-<li>CRUD; pagination; order tracking management</li>
+<li>order tracking management</li>
 </ul>
 </li>
 <li>Setting management
 <ul dir="auto">
-<li>Custom logo, currency, name; list for country, city; configure mail server, email template for customers and orders</li>
+<li>Custom logo, address, name, ...</li>
 </ul>
 </li>
 </ul>
